@@ -1,5 +1,7 @@
-public class Hello{
+package JavaFullStack;
+
+class Hello{
     public static void main(String[] a){
-        System.err.println("hELLO");
+        System.out.println("hELLO");
     }
 }
