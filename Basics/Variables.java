@@ -1,4 +1,4 @@
-package JavaFullStack.Variables;
+package JavaFullStack.Basics;
 
 public class Variables {
     

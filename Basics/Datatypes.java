@@ -1,11 +1,11 @@
-package JavaFullStack.Variables;
+package JavaFullStack.Basics;
 
 public class Datatypes {
 
     public static void main(String[] args) {
 
         int a=5;
-        float f=5.0;
+        float f=5.0f;
         short s=42;
         byte b=6;
         long l=21500;
